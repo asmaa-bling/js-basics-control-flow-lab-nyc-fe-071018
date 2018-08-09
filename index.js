@@ -1,4 +1,4 @@
 // Write your code in this file!
-function scuberGreetingForFeet () {
-  let ride = 3;
-}
+// function scuberGreetingForFeet () {
+//   let ride = 3;
+// }
